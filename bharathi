@@ -1,0 +1,307 @@
+   1  cd
+    2  j11
+    3  cd j11
+    4  mkdir june17
+    5  cd june17
+    6  git status
+    7  git init
+    8  ls -a
+    9  git status
+   10  git add bharathi.txt
+   11  git add santhosh.txt
+   12  git add bharathi.txt
+   13  git status
+   14  create bharathi.tst
+   15  touch bharathi.txt
+   16  git status
+   17  git add.
+   18  git add .
+   19  git status
+   20  git config --global user.name "selva"
+   21  git config --global user.email "selbharathicm@gmail.com"
+   22  git commit -m "selva"
+   23  git push
+   24  git remote add orgin https://github.com/Selvabharathibadhri/J17.git
+   25  git push
+   26  git push --set-upstream orgin master
+   27  git branch
+   28  git branch dev1
+   29  git branch dev2
+   30  git branch dev3
+   31  git branch dev
+   32  git branch dev5
+   33  git branch
+   34  git checkout dev
+   35  ls -a
+   36  touch sam1.txt
+   37  git status
+   38  git add sam1.txt
+   39  git commit -m "sam1 file"
+   40  git push
+   41  git push --set-upstream orgin dev
+   42  git config global user.name "sel"
+   43  git config global user.name "sel"
+   44  git log
+   45  git checkout dev1
+   46  touch sam2.txt
+   47  git add sam2.txt
+   48  git commit -m'sam2 file"
+   49  git commit -m "sam2 file"
+   50  clear
+   51  dd
+   52  cd june 11
+   53  cd june11
+   54  cd june17
+   55  git checkout dev2
+   56  git status
+   57  git commit -m "sam2.file"
+   58  git push
+   59  git push --set-upstream orgin dev2
+   60  ls
+   61  git checkout dev3
+   62  git merge dev
+   63  git merge dev2
+   64  ls
+   65  git checkout dev
+   66  ls
+   67  git checkout dev3
+   68  ls
+   69  git rebase dev3 dev4
+   70  git checkout master
+   71  git brach
+   72  git branch
+   73  git checkout dev 3
+   74  git checkout dev3
+   75  git rebase dev3 dev5
+   76  ls
+   77  git checkout dev
+   78  ls
+   79  git checkout dev5
+   80  touch sam5.txt
+   81  vi sam5.txt
+   82  git status
+   83  git status
+   84  git add
+   85  git add .
+   86  git commit -m "line-1"
+   87  vi sam5.txt
+   88  git commit -am "line-2"
+   89  vi sam5.txt
+   90  git commit -am "line-3"
+   91  vi sam5.txt
+   92  git commit -am "line-4"
+   93  vi sam5.txt
+   94  git commit -am "line-5"
+   95  vi sam6.txt
+   96  vi sam5.txt
+   97  git commit -am "line-6"
+   98  git log --onefile
+   99  git log --oneline
+  100  git checkout dev1
+  101  git cherry-pic 91320df
+  102  git cherry-pick 91320df
+  103  git checkout dev1
+  104  git merge dev5
+  105  exit
+  106  cd june17
+  107  git cherry-pick
+  108  git cherry-pick --quit
+  109  git merge dev5
+  110  git checkout dev5
+  111  git checkout
+  112  git merge dev2
+  113  git merge dev5
+  114  exit
+  115  cd june17
+  116  git status
+  117  git add.
+  118  git add .
+  119  git commit -m "22"
+  120  git checkout dev5
+  121  git log --oneline
+  122  git checkout dev2
+  123  git cherry-pick 92e3780
+  124  git checkout dev2
+  125  git checkout dev5
+  126  git push
+  127  git push --set-upstream orgin dev5
+  128  git log --oneline
+  129  git checkout dev3
+  130  git cherry-pick cda4459
+  131  exit
+  132  git
+  133  cd june17
+  134  ls
+  135  git checkout dev5
+  136  git status
+  137  git add .
+  138  git commit -m "move"
+  139  git checkout dev5
+  140  git checkout dev1
+  141  git log --oneline
+  142  git checkout dev5
+  143  git log --oneline
+  144  git checkout dev2
+  145  git cherry-pick 92e3780
+  146  cat sam5.txt
+  147  cd june19
+  148  cd june17
+  149  mkdir jun19
+  150  git status
+  151  git init
+  152  cd jun19
+  153  git init
+  154  touch sample
+  155  git add.
+  156  git add .
+  157  git commit -m "master file"
+  158  git push
+  159  git config --global user.name "task"
+  160  git config --global user.email "task@gmail.com
+  161  cd jun19
+  162  ls
+  163  git config --global user.email "task@gmail.com"
+  164  git push
+  165  git remote add orgin https://github.com/Selvabharathibadhri/june19.git
+  166  git push
+  167  git push --set-upstream orgin master
+  168  git branch
+  169  git branch dev1
+  170  git branch dev2
+  171  git branch dev3
+  172  git branch dev4
+  173  git branch dev5
+  174  git branch
+  175  git checkout dev1
+  176  touch sam1.txt
+  177  git add .
+  178  git commit -m "dev1 file"
+  179  git push
+  180   git push --set-upstream orgin dev1
+  181  git checkout dev2
+  182  touch sam2.txt
+  183  git add .
+  184  git commit -m "dev2 file"
+  185  git push
+  186  git push --set-upstream orgin dev2
+  187  git checkout dev3
+  188  git merge dev1
+  189  git merge dev2
+  190  ls
+  191  git rebase dev3 dev4
+  192  ls
+  193  git checkout dev5
+  194  touch sam5.txt
+  195  git add
+  196  git add .
+  197  git commit -m "dev5 file lne1"
+  198  git commit -am "dev5 file lne2"
+  199  cat sam5.txt
+  200  cat sam5.txt
+  201  vi sam5.txt
+  202  git commit -am "dev5 file lne2"
+  203  vi sam5.txt
+  204  git commit -am "dev5 file lne3"
+  205  vi sam5.txt
+  206  git commit -am "dev5 file lne4"
+  207  vi sam5.txt
+  208  git commit -am "dev5 file lne5"
+  209  vi sam5.txt
+  210  git commit -am "dev5 file lne6"
+  211  git log --oneline
+  212  git checkout dev1
+  213  git cherrypick 8bd5adf
+  214  git cherry-pick 8bd5adf
+  215  git status
+  216  git status
+  217  git add.
+  218  git commit -m "cp"
+  219  git cherry-pick --abort
+  220  git add.
+  221  git commit -m "cp"
+  222  git checkout dev5
+  223  git checkout dev4
+  224  ls
+  225  git rebase dev4 dev5
+  226  ls
+  227  git add.
+  228  git add .
+  229  git commit -m "rebase in dev5"
+  230  gitt status
+  231  gitt status
+  232  git status
+  233  git push
+  234  git push --set-upstream orgin dev5
+  235  git log --oneline
+  236  git checkout dev2
+  237  git cherry-pick 685597b
+  238  cat sam5.txt
+  239  git add .
+  240  git commit -m "cp2"
+  241  git cherry-pick 685597b
+  242  git commit --allow-empty
+  243  git cherry-pick 685597b
+  244  git cherry-pick --skip
+  245  git cherry-pick 685597b
+  246  git push
+  247  git cherry-pick 685597b
+  248  "git cherry-pick --abort
+  249  cd jun19
+  250  git cherry-pick --abort
+  251  git checkout dev5
+  252  git log --oneline
+  253  git checkout dev3
+  254  cat sam5.txt
+  255  git merge dev5
+  256  ls
+  257  git add .
+  258  git commit -m "cp3"
+  259  git push
+  260  git push --set-upstream orgin dev3
+  261  git cherry-pick 0f288b5
+  262  git status
+  263  git cherry-pick --abort
+  264  git checkout dev4
+  265  ls
+  266  git merge sam5.xt
+  267  git merge sam5.txt
+  268  git merge dev5
+  269  cat sam5.txt
+  270  cat sam5.txt
+  271  vi sam5.txt
+  272  git add .
+  273  git commit -m "cp4"
+  274  git push
+  275  git push --set-upstream orgin dev4
+  276  git cherry-pick 5bf3729
+  277  gt status
+  278  git status
+  279  git cherry-pick --abort
+  280  git checkout dev5
+  281  git log --oneline
+  282  git rebase -i head~5
+  283  git log --oneline
+  284  git rebase -i HEAD~6
+  285  git log --oneline
+  286  git rebase -i HEAD~6
+  287  git log --oneline
+  288  git checkout dev2
+  289  git log --oneline
+  290  git checkout dev6
+  291  git checkout dev5
+  292  vi sam5.txt
+  293  git add .
+  294  git commit -m "rev"
+  295  git log --online
+  296  git log --oneline
+  297  git revert a43064b
+  298  cat sam5.txt
+  299  git log --oneline
+  300  git revert 0321717
+  301  cat sam5.txt
+  302  git log --oneline
+  303  History
+  304  git history
+  305  git --help
+  306  history
+
